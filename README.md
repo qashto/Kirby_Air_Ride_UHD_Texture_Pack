@@ -1,7 +1,7 @@
 # Kirby_Air_Ride_UHD_Texture_Pack
-## [DOWNLOAD LINK](https://github.com/quinton-ashley/Kirby_Air_Ride_UHD_Texture_Pack/releases/latest/download/GKY.7z)  
-![](https://raw.githubusercontent.com/quinton-ashley/Kirby_Air_Ride_UHD_Texture_Pack/master/Poster.png)
-This pack contains retextures averaging 8x original size for the entire city area of City Trial mode.  Most of the pack is a repackaged combination of excellent contributions from members of the Dolphin Forum community.  Go to the [wiki](https://github.com/quinton-ashley/Kirby_Air_Ride_UHD_Texture_Pack/wiki/Screenshots) to see screenshots!
+## [DOWNLOAD LINK](https://github.com/qashto/Kirby_Air_Ride_UHD_Texture_Pack/releases/latest/download/GKY.7z)  
+![](https://raw.githubusercontent.com/qashto/Kirby_Air_Ride_UHD_Texture_Pack/master/Poster.png)
+This pack contains retextures averaging 8x original size for the entire city area of City Trial mode.  Most of the pack is a repackaged combination of excellent contributions from members of the Dolphin Forum community.  Go to the [wiki](https://github.com/qashto/Kirby_Air_Ride_UHD_Texture_Pack/wiki/Screenshots) to see screenshots!
 
 ### Contributions
 
@@ -20,7 +20,7 @@ Use the widescreen codes found on the [wiki](https://wiki.dolphin-emu.org/index.
 ### Donate!
 
 Patreon:
-[https://www.patreon.com/qashto](https://www.patreon.com/qashto)
+[https://www.patreon.com/qashto](https://www.patreon.com/nostlan)
 
 Paypal:
 [https://www.paypal.me/qashto/5](https://www.paypal.me/qashto/5)
